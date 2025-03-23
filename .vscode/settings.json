@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 18,
+    "terminal.integrated.fontSize": 22,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
+}
